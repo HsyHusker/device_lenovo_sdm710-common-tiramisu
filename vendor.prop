@@ -141,3 +141,6 @@ persist.vendor.radio.procedure_bytes=SKIP
 # SoC
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM710
+
+# Zygote
+zygote.critical_window.minute=10
