@@ -48,6 +48,9 @@ bluetooth.profile.pan.panu.enabled?=true
 bluetooth.profile.pbap.server.enabled?=true
 bluetooth.profile.sap.server.enabled?=true
 
+# Gboard
+ro.com.google.ime.kb_pad_port_b=1
+
 # Graphics
 debug.egl.hw=1
 debug.sf.hw=1
