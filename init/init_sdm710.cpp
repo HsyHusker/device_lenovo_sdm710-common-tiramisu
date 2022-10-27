@@ -45,5 +45,5 @@ void vendor_load_properties() {
     property_override("ro.system.build.fingerprint", "google/raven/raven:13/TP1A.221005.002/9012097:user/release-keys");
     property_override("ro.product.build.fingerprint", "google/raven/raven:13/TP1A.221005.002/9012097:user/release-keys");
     property_override("ro.oem_unlock_supported", "0");
-
+    property_override("ro.rice.chipset", "Snapdragon 710");
 }
